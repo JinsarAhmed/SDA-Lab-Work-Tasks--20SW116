@@ -1,2 +1,7 @@
-# SDA-Lab-Work-Tasks--20SW116
+# SDA-Lab Work/Tasks--20SW116
 This repository contains the tasks/work of the Lab of Software Design and Architecture (SDA), I am Ahmed Jinsar and My Roll Number is 20SW116
+
+# Introduction
+Teacher: Mam Rabeea Jafferi
+Student: Jinsar Ahmed (20SW116)
+Dept: SWE 
